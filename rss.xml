@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[shark]]></title>
         <description><![CDATA[shark]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shark/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 19:16:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Jan 2016 19:42:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shark/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Motivated by the desire to be creatively challenged and overcome impossibilities, Benjamin Von Wong has become notorious for his epic photography. His hyper-realistic art style captures viewers in a fusion of special effects and innovative concepts. Benjamin's background in engineering gives him a unique edge for creative problem solving, where technical challenges become friendly competition. Fueled by his passion to connect people, Benjamin has an affinity for finding unique talent to bring his complex stories to life. He is also highly engaged in the photographic society by sharing his experiences and techniques through blogs, social media, workshops and videos.</p>]]></description>
+            <link>https://thegrid.ai/shark/motivated-by-the-desire-to-be-creatively-challenged-and-over/index.html</link>
+            <guid isPermaLink="false">dfcc0657-a21b-44a7-941b-33dcdf2e3639</guid>
+            <pubDate>Sun, 10 Jan 2016 19:42:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test]]></title>
             <description><![CDATA[<article><h1>Test</h1><p>Sharks have proven to generate more money alive than dead</p></article>]]></description>
-            <link>undefinedtest/index.html</link>
+            <link>https://thegrid.ai/shark/test/index.html</link>
             <guid isPermaLink="false">c0f6bb0b-9cce-44f4-8dad-7a1c2e309724</guid>
             <pubDate>Sun, 10 Jan 2016 19:16:15 GMT</pubDate>
         </item>
