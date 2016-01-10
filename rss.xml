@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[shark]]></title>
+        <description><![CDATA[shark]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jan 2016 19:16:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test]]></title>
+            <description><![CDATA[<article><h1>Test</h1><p>Sharks have proven to generate more money alive than dead</p></article>]]></description>
+            <link>undefinedtest/index.html</link>
+            <guid isPermaLink="false">c0f6bb0b-9cce-44f4-8dad-7a1c2e309724</guid>
+            <pubDate>Sun, 10 Jan 2016 19:16:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
